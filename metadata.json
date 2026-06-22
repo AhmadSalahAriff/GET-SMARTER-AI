@@ -1,0 +1,6 @@
+{
+  "name": "GET SMARTER AI",
+  "description": "An interactive retro AI chat app where every prompt is locked behind a unique customizable mini-game, featuring dynamic quest loot like custom weapons and cosmetics which enhance performance in future challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
